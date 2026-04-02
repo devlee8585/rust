@@ -43,16 +43,16 @@ fn main() {
     //     }
     //     count += 1;
     // }
-// //////////////////////////////////
-//     let a = [10,20,30,40,50];
+    // //////////////////////////////////
+    //   let a = [10,20,30,40,50];
 
-//     for element in a {
-//         println!("the value is : {element}");
-// //     }
-//     for number in (5..10).rev() {
-//         println!("{number}!");
-//     }
-//     println!("LIFTOFF!!!");
+    //   for element in a {
+    //       println!("the value is : {element}");
+    //      }
+    //   for number in (5..10).rev() {
+    //       println!("{number}!");
+    //   }
+    //     println!("LIFTOFF!!!");
 //////////
     // 화씨 온도와 섭씨 온도 간 변환하기
     // let fahrenheit = 100.0;
